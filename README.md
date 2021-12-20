@@ -1,7 +1,10 @@
 # sqlalchemy-challenge- Surfs Up!
 
+
 ### Background
-Using sqlalchemy to performed climate analysis of Honolulu, Hawaii! 
+Using sqlalchemy to performed climate analysis of Honolulu, Hawaii!
+![surfs-up.png](Images/surfs-up.png)
+ 
 ## Climate Analysis and Exploration
 
  All of the following analysis were completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
