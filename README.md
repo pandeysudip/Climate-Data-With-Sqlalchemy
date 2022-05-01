@@ -1,4 +1,4 @@
-# sqlalchemy-challenge- Surfs Up!
+# Surfs Up!
 
 
 ### Background
